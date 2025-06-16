@@ -40,7 +40,7 @@
 ### Installation:
 1. Clone this repository or download the source code:
    ```bash
-   git clone https://github.com/yourusername/star-attack.git
+   git clone https://github.com/LeoSeeker526/Star-Attack.git
    cd star-attack
    ```
 2. Install Pygame:
